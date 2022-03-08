@@ -1,0 +1,12 @@
+.tab { text-indent: 40px; }
+
+.tab { margin-left: 55px; }
+
+.tab { margin-right: 55px; }
+
+.container {
+    max-width: 40%;
+    margin: auto;
+    font-size: 15px;
+    text-align: center;
+}
